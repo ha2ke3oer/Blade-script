@@ -9,7 +9,7 @@ OrionLib:MakeNotification({
 	Time = 5
 })
 
-_G.Key = "HappyNewYear"
+_G.Key = "freekey"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
